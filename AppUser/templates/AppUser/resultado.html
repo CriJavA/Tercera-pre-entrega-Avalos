@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>RESULTADO DE BUSQUEDA</h1>
+    <p>Busqueda por la marca: {{marcaArt}}</p>
+
+    {% for artMarcas in artMarcas %}
+
+        <p>La marca: {{artMarcas.Marca}} -- El modelo: {{artMarcas.Modelo}}</p>
+
+    {% endfor %}
+
+</body>
+</html>
