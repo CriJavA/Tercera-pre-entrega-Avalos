@@ -25,5 +25,5 @@ basica a los efectos de mostrar su funcionamiento atento a lo solicitado en la p
 
 6- "START BOOTSTRAP": Al hacer click sobre el nombre se vuelve al inicio.
 
-* El inciso 2, 3 y 5 almacenan datos en tres models diferentes a los cuales se accede por pedio de sus
+* Los incisos 2, 3 y 5 almacenan datos en tres models diferentes a los cuales se accede por pedio de sus
   respectivos formularios.
